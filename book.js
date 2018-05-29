@@ -1,6 +1,6 @@
 {
     "title": "杭州市民卡文档",
-    "description": "描述信息",
+    "description": "API文档",
     "author": "Bo",
     "language": "zh-hans",
     "gitbook": "3.2.3",
