@@ -11,7 +11,7 @@
     },
     "links": {
         "sidebar": {
-            "Home": "http://www.baidu.com"
+            "Home": "https://www.96225.com/smknet/service/index.action?result=indexJsp"
         }
     },
     "plugins": [
