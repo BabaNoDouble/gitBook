@@ -1,9 +1,4 @@
 
-```javascript
-function fancyAlert(arg) {
-if(arg) {
-$.facebox({div:'#foo'})
-}
-}
-```
 
+#介绍
+xxxxxxxxxxxxxxx
